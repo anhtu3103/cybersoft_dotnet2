@@ -68,6 +68,80 @@ decimal exchangeRate = Convert.ToDecimal(exchangeRateStr);
 decimal exchangeAmount = exchangeRate * USDamount;
 Console.WriteLine($"Số tiền sau khi chuyển đổi: {exchangeAmount} VND");
 
+//BT6:
+Console.WriteLine(split);
+Console.WriteLine("BT6:");
+Console.Write("Nhập số dư tài khoản: ");
+string balanceAmountStr = Console.ReadLine();
+decimal balanceAmount = Convert.ToDecimal(balanceAmountStr);
+
+Console.Write("Nhập số tiền cần rút: ");
+string withdrawAmountStr = Console.ReadLine();
+decimal withdrawAmount = Convert.ToDecimal(withdrawAmountStr);
+
+decimal remainAmount = balanceAmount - withdrawAmount;
+Console.WriteLine($"Số tiền còn lại: {remainAmount} VND");
+
+//BT7:
+Console.WriteLine(split);
+Console.WriteLine("BT7:");
+Console.Write("Nhập quãng đường đã đi (km): ");
+string kilometerStr = Console.ReadLine();
+decimal kilometer = Convert.ToDecimal(kilometerStr);
+
+Console.Write("Nhập số giờ đã đi (h): ");
+string hoursStr = Console.ReadLine();
+decimal time = Convert.ToDecimal(hoursStr);
+
+decimal speed = kilometer / time;
+Console.WriteLine($"Vận tốc: {speed} km/h");
+
+//BT8:
+Console.WriteLine(split);
+Console.WriteLine("BT8:");
+Console.Write("Nhập một số: ");
+string numberStr = Console.ReadLine();
+decimal number = Convert.ToDecimal(numberStr);
+
+Console.Write("Nhập một tổng số: ");
+string totalNumberStr = Console.ReadLine();
+decimal totalNumber = Convert.ToDecimal(totalNumberStr);
+
+decimal percent = number / totalNumber * 100;
+Console.WriteLine($"tỉ lệ phần trăm của {number}/{totalNumber} là: {percent}%");
+
+//BT9:
+Console.WriteLine(split);
+Console.WriteLine("BT9:");
+Console.Write("Nhập vận tốc (km/h): ");
+string speedKmPerHoursStr = Console.ReadLine();
+double speedKmPerHours = Convert.ToDouble(speedKmPerHoursStr);
+double speedMeterPerSecond = speedKmPerHours / 3.6;
+Console.WriteLine($"{speedKmPerHours} km/h = {speedMeterPerSecond} m/s");
+
+//BT10:
+const int runCalories = 10, cyclingCalories = 15, swimmingCalories = 20;
+
+Console.WriteLine(split);
+Console.WriteLine("BT10:");
+Console.Write("Nhập số phút tập thể dục: ");
+string minutesExcerciseStr = Console.ReadLine();
+double minutesExcercise = Convert.ToDouble(minutesExcerciseStr);
+
+Console.Write("Nhập hình thức tập thể dục (1: Chạy, 2: Đạp xe, 3: Bơi lội): ");
+string ExerciseTypeStr = Console.ReadLine();
+int ExerciseType = Convert.ToInt32(ExerciseTypeStr);
+
+double burnColories = 0;
+if (ExerciseType == 1)
+    burnColories = minutesExcercise * runCalories;
+else if (ExerciseType == 2)
+    burnColories = minutesExcercise * cyclingCalories;
+else if (ExerciseType == 3)
+    burnColories = minutesExcercise * swimmingCalories;
+
+Console.WriteLine($"số calo đã tiêu thụ {burnColories}");
+
 #endregion
 
 
