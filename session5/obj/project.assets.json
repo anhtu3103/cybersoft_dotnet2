@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session2\\session2.csproj",
-      "projectName": "session2",
-      "projectPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session2\\session2.csproj",
+      "projectUniqueName": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session5\\session5.csproj",
+      "projectName": "session5",
+      "projectPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session5\\session5.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session2\\obj\\",
+      "outputPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

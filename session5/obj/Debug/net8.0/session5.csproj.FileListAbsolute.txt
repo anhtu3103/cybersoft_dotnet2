@@ -1,0 +1,15 @@
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.AssemblyInfoInputs.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.AssemblyInfo.cs
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.csproj.CoreCompileInputs.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.sourcelink.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\bin\Debug\net8.0\session5.exe
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\bin\Debug\net8.0\session5.deps.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\bin\Debug\net8.0\session5.runtimeconfig.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\bin\Debug\net8.0\session5.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\bin\Debug\net8.0\session5.pdb
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\refint\session5.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.pdb
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\session5.genruntimeconfig.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session5\obj\Debug\net8.0\ref\session5.dll
