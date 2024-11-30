@@ -1,0 +1,18 @@
+[
+  {
+    "subject": "1",
+    "grade": "1",
+    "bookId": "1",
+    "bookName": "1",
+    "author": "1",
+    "price": 1.0
+  },
+  {
+    "topic": "2",
+    "publisher": "2",
+    "bookId": "2",
+    "bookName": "2",
+    "author": "2",
+    "price": 2.0
+  }
+]
