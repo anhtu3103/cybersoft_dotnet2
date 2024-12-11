@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "session13_bt_oop/1.0.0": {
+        "runtime": {
+          "session13_bt_oop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "session13_bt_oop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

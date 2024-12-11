@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\LibaryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibaryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\ReferenceBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReferenceBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\LibaryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibaryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\session11_phudao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:session11_phudao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "session11_phudao.csproj",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\session11_phudao.csproj",
+              "RelativeDocumentMoniker": "session11_phudao.csproj",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\session11_phudao.csproj",
+              "RelativeToolTip": "session11_phudao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T09:39:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReferenceBook.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\ReferenceBook.cs",
               "RelativeDocumentMoniker": "ReferenceBook.cs",
@@ -38,28 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LibaryManager.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\LibaryManager.cs",
               "RelativeDocumentMoniker": "LibaryManager.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\LibaryManager.cs",
               "RelativeToolTip": "LibaryManager.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAiwGUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T08:48:45.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T08:48:45.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session11_phudao\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:23:21.88Z"
+              "WhenOpened": "2024-11-30T09:23:21.88Z",
+              "EditorCaption": ""
             }
           ]
         }

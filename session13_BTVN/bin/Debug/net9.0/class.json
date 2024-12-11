@@ -1,0 +1,29 @@
+[
+  {
+    "MaHocSinh": 10,
+    "HoTen": "Le Van Muoi",
+    "Toan": 7.0,
+    "Van": 7.5,
+    "Anh": 4.0,
+    "Dtb": 0.0,
+    "XepLoai": null
+  },
+  {
+    "MaHocSinh": 2,
+    "HoTen": "Muoi Thi Tu",
+    "Toan": 2.0,
+    "Van": 2.0,
+    "Anh": 2.0,
+    "Dtb": 0.0,
+    "XepLoai": null
+  },
+  {
+    "MaHocSinh": 3,
+    "HoTen": "Nguyen Van Anh",
+    "Toan": 5.0,
+    "Van": 7.7,
+    "Anh": 8.0,
+    "Dtb": 0.0,
+    "XepLoai": null
+  }
+]

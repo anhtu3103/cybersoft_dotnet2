@@ -24,7 +24,7 @@ class LibraryManager {
     {
         //convert list to json
         string json = JsonConvert.SerializeObject(books, Formatting.Indented);
-
+        
         //Save file
         File.WriteAllText(filePath, json);
         Console.WriteLine("Lưu file thành công");

@@ -1,0 +1,16 @@
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.AssemblyInfoInputs.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.AssemblyInfo.cs
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.csproj.CoreCompileInputs.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.sourcelink.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\session13_bt_oop.exe
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\session13_bt_oop.deps.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\session13_bt_oop.runtimeconfig.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\session13_bt_oop.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\session13_bt_oop.pdb
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\refint\session13_bt_oop.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.pdb
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.genruntimeconfig.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\ref\session13_bt_oop.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.csproj.AssemblyReference.cache

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|solutionrelative:productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|solutionrelative:sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|solutionrelative:electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\fashion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D98F2-B461-4F27-9397-857DB0DACE69}|session13_bt_oop.csproj|solutionrelative:fashion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\SanPham.cs",
+              "RelativeDocumentMoniker": "SanPham.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\SanPham.cs",
+              "RelativeToolTip": "SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:41:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\Electronics.cs",
+              "RelativeDocumentMoniker": "Electronics.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\Electronics.cs",
+              "RelativeToolTip": "Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:41:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fashion.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\Fashion.cs",
+              "RelativeDocumentMoniker": "Fashion.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\Fashion.cs",
+              "RelativeToolTip": "Fashion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:41:21.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductManager.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_bt_oop\\ProductManager.cs",
+              "RelativeToolTip": "ProductManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:31:40.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

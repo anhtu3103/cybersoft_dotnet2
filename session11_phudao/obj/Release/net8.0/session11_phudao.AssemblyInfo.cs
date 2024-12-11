@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("session11_phudao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+040235ca59cd25658997c5c0aafdd20af146261a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a260b578d10210814b3b7c63d8fb0293daeff94")]
 [assembly: System.Reflection.AssemblyProductAttribute("session11_phudao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("session11_phudao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
