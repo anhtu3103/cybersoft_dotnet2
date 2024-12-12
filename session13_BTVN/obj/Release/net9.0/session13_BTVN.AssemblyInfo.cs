@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("session13_BTVN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a260b578d10210814b3b7c63d8fb0293daeff94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7caea18428d11ced6fdaa3efffbcdd9ffd0f947c")]
 [assembly: System.Reflection.AssemblyProductAttribute("session13_BTVN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("session13_BTVN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

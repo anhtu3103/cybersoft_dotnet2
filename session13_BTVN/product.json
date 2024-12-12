@@ -1,0 +1,20 @@
+[
+  {
+    "MaSanPham": 3,
+    "TenSanPham": "Ao",
+    "GiaBan": 60.0,
+    "SoLuongTonKho": 40
+  },
+  {
+    "MaSanPham": 1,
+    "TenSanPham": "Banh Trung Thu",
+    "GiaBan": 150.0,
+    "SoLuongTonKho": 10
+  },
+  {
+    "MaSanPham": 2,
+    "TenSanPham": "May Cao",
+    "GiaBan": 300.0,
+    "SoLuongTonKho": 20
+  }
+]

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_btvn\\hocsinhmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|solutionrelative:hocsinhmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\ProductManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\HocSinhManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HocSinhManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session13_btvn\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EF0E23-7083-464A-9395-ACAB7D9D994C}|session13_BTVN.csproj|solutionrelative:hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\HocSinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HocSinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductManager.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\ProductManager.cs",
+              "RelativeToolTip": "ProductManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:40:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HocSinhManager.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\HocSinhManager.cs",
               "RelativeDocumentMoniker": "HocSinhManager.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "HocSinh.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:20:06.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T15:20:06.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session13_BTVN\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAwwBoAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:19:11.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T15:19:11.502Z"
             }
           ]
         }

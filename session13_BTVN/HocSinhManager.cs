@@ -8,7 +8,7 @@ namespace session13_BTVN
         public string classId { get; set; }
         public string className { get; set; }
         public List<HocSinh> hocSinhs { get; set; }
-        public string filePath = "./class.json";
+        public string filePath = "class.json";
 
         public HocSinhManager(string classId, string className)
         {
@@ -137,7 +137,7 @@ namespace session13_BTVN
             }
             if (!flag)
             {
-                Console.WriteLine("Không tìm thấy học sinh nào có");
+                Console.WriteLine("Không tìm thấy học sinh nào");
             }
         }
 
