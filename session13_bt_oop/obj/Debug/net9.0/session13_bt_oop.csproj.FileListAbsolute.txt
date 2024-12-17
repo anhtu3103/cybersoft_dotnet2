@@ -14,3 +14,5 @@ D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.genruntimeconfig.cache
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\ref\session13_bt_oop.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session13_bt_oop.csproj.AssemblyReference.cache
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session13_bt_oop\obj\Debug\net9.0\session1.3D7DFCE6.Up2Date

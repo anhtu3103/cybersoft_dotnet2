@@ -1,0 +1,17 @@
+[
+  {
+    "MaThanhToan": 1,
+    "PhuongThuc": "Tiền mặt",
+    "SoTien": 100000.0
+  },
+  {
+    "MaThanhToan": 2,
+    "PhuongThuc": "Thanh toán thẻ",
+    "SoTien": 100000.0
+  },
+  {
+    "MaThanhToan": 3,
+    "PhuongThuc": "Thanh toán online",
+    "SoTien": 22222.0
+  }
+]

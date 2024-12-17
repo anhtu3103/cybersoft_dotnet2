@@ -1,4 +1,5 @@
 ﻿
+using System;
 using Newtonsoft.Json;
 using static System.Reflection.Metadata.BlobBuilder;
 
@@ -13,7 +14,7 @@ class ProductManager
     }
     public void loadData()
     {
-        if(File.Exists(filePath)) {
+        if(!File.Exists(filePath)) {
             products = new List<SanPham>();
         }
         else
@@ -81,4 +82,26 @@ class ProductManager
         addProduct(fashion);
     }
 
+    public void displayAllProduct()
+    {
+        products.Sort((p1, p2) => p2.Price.CompareTo(p1.Price));
+        foreach (var product in products) 
+        {
+            product.displayInfo();
+            Console.WriteLine("===============================");
+        }
+    }
+
+    public void searchByName(string name)
+    {
+        SanPham? product = products.Find(p => p.ProductName.ToLower().Contains(name.ToLower()));
+        if (product == null)
+        {
+            Console.WriteLine("Product not found!");
+        }
+        else
+        {
+            product.displayInfo();
+        }
+    }
 }
