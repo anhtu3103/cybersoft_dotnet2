@@ -1,0 +1,26 @@
+[
+  {
+    "ThueBaoHanh": 10.0,
+    "MaSanPham": 1,
+    "TenSanPham": "casio",
+    "GiaGoc": 100000.0
+  },
+  {
+    "GiamGia": 10.0,
+    "MaSanPham": 2,
+    "TenSanPham": "ao da",
+    "GiaGoc": 200000.0
+  },
+  {
+    "PhiVanChuyen": 5000.0,
+    "MaSanPham": 3,
+    "TenSanPham": "ca rot",
+    "GiaGoc": 24000.0
+  },
+  {
+    "ThueBaoHanh": 1.0,
+    "MaSanPham": 4,
+    "TenSanPham": "abc",
+    "GiaGoc": 1.0
+  }
+]
