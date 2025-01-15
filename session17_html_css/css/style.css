@@ -1,21 +1,180 @@
 * {
     margin: 0;
     padding: 0;
+     box-sizing: border-box; /*để căn chỉnh item chia đều khoảng cách trên cùng 1 hàng */
 }
 
 .header {
     background-color: rgb(248 225 219);
 }
 
+.header__content {
+    margin: 0 auto;
+    max-width: 1440px;
+} 
+
 .header ul{
     list-style: none;
+
 }
 
 .header li {
     display: inline;
+    margin: 20px;
 }
 
 .header a {
     text-decoration: none;
     color: black;
+}
+
+/* carousel */
+.carousel {
+    background-image: url("../img/BG.png");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    
+}
+
+/* Activities */
+.activities {
+    padding: 50px 0;
+    background-color: #faf4f2;
+}
+
+.activities__content {
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+.activities__heading {
+    text-align: center;
+}
+
+.activities__item {
+    float: left;
+    width: 25%;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: #faf4f2;
+    border-radius: 20px;
+}
+
+.activities__card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/* sau khi dùng xong float thì phải clear đi */
+.clear {
+    clear: both;
+}
+
+.acitivities__img img{
+    border-radius: 20px;
+}
+
+.acitivities__img {
+    position: relative;
+}
+
+.activities__desc h3 {
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.activities__desc p {
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+
+.activities__desc button {
+    padding: 12px 50px;
+    border: none;
+    border-radius: 25px;
+    color: #8d8d8d;
+    background-color: #e8e8e8;
+    letter-spacing: 1px; /* khoảng cách giữa các từ*/
+    cursor: pointer;
+}
+
+.activities__desc button:hover,
+.activities__viewall:hover {
+    color: white;
+    background-color: #f8e1db;
+}
+
+.activities__view {
+    text-align: center;
+}
+
+.activities__viewall {
+    padding: 16px 60px;
+    border: 1px solid #e76f51;
+    border-radius: 25px;
+    color: #e76f51;
+    background-color: transparent;
+    letter-spacing: 1px; /* khoảng cách giữa các từ*/
+    cursor: pointer;
+}
+
+.activities__love {
+    position: absolute;
+    color: red;
+    font-size: 22px;
+    width: 42px;
+    height: 42px;
+    background-color: rgba(255, 255, 255, 0.4);
+    line-height: 45px;
+    border-radius: 14px;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+}
+
+/* Contact */
+.contact {
+    background-color: #f8e1db;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+
+.container {
+    max-width: 1440px;
+    height: 400px;
+    margin: auto;
+}
+
+.contact__left {
+    background-image: url(../img/mask.png);
+    background-size: cover;
+
+}
+
+.contact__left,
+.contact__right {
+    float: left;
+    width: 50%;
+    padding: 20px 60px;
+}
+
+
+.contact__app,
+.contact__follow {
+    float: left;
+    width: 50%;
+    padding-right: 15px;
+}
+
+.contact__app img {
+    float: left;
+    width: 50%;
+}
+
+.contact__follow i {
+    color: red;
+    font-size: 25px;
+    margin-right: 10px;
 }
