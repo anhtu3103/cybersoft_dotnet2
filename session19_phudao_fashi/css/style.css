@@ -12,7 +12,8 @@
 /* override class container của bootstrap */
 .container {
     display: flex;
-    justify-content: space-between; /* đẩy các phần tử con của container ra 2 bên */
+    justify-content: space-between;
+    /* đẩy các phần tử con của container ra 2 bên */
     width: 100%;
 }
 
@@ -39,8 +40,10 @@
 
 .heaeder__top__right {
     display: flex;
-    align-items: center; /* canh giữa các phàn tử theo chiều dọc*/
-    gap: 20px; /* tạo khoảng cách giữa các phần tử */
+    align-items: center;
+    /* canh giữa các phàn tử theo chiều dọc*/
+    gap: 20px;
+    /* tạo khoảng cách giữa các phần tử */
 }
 
 .header__top__social,
@@ -51,22 +54,20 @@
 }
 
 
-.header__top__social a
-{
+.header__top__social a {
     font-size: 16px;
     color: #252525;
-    margin-right: 16px ;
-}
-.header__top__lang {
-    
+    margin-right: 16px;
 }
 
-.header__top__login a{
+.header__top__lang {}
+
+.header__top__login a {
     font-size: 16px;
     color: #252525;
 }
 
-.header__top__login i{
+.header__top__login i {
     margin-right: 8px;
 }
 
@@ -122,12 +123,12 @@
     display: flex;
 }
 
-.header__center__search .input__group input{
+.header__center__search .input__group input {
     border: none;
     width: 100%;
     height: 100%;
     font-size: 16px;
-    
+
     padding: 10px 16px;
 }
 
@@ -141,6 +142,169 @@
 
 }
 
-.header__center__nav {
+.header__center__nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 25px;
+}
 
+/* style cho số lượng */
+.header__center__nav .heart__icon a,
+.header__center__nav .cart__icon a {
+    position: relative;
+}
+
+.header__center__nav .heart__icon span,
+.header__center__nav .cart__icon span {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    background-color: #e7ab3c;
+    color: white;
+    border-radius: 50%;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -8px;
+    right: -10px;
+}
+
+/* style cho icon*/
+.header__center__nav .heart__icon a i,
+.header__center__nav .cart__icon a i {
+    font-size: 20px;
+    color: #252525;
+    transition: all 0.3s ease;
+
+
+}
+
+/* xử lí hover show/hidden */
+.cart__icon {
+    position: relative;
+    cursor: pointer;
+}
+
+.cart__icon:hover .cart__hover {
+    visibility: visible;
+    transform: translateY(0);
+    opacity: 1;
+
+}
+
+.cart__hover {
+    position: absolute;
+    width: 360px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    right: -23px;
+    top: 50px;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s ease;
+    transform: translateY(10px);
+
+}
+
+.cart__hover .select__item table {
+    width: 100%;
+    border-spacing: 0;
+
+}
+
+.cart__hover .select__item td {
+    padding: 15px 0;
+}
+
+/* select__total  */
+.cart__hover .select__total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    margin-top: 10px;
+}
+
+/* select__button  */
+.cart__hover .select__button {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.cart__hover .primary__btn {
+    display: block;
+    width: 100%;
+    padding: 14px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
+.view__cart {
+    background-color: #252525;
+}
+
+.checkout_btn {
+    background-color: #e7ab3c;
+}
+
+.Amount__icon {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* Header__nav */
+.header__nav {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    background-color: #252525;
+}
+
+.header__nav .nav__depart {
+    height: 100%;
+}
+
+.header__nav .depart__btn {
+    color: white;
+    cursor: pointer;
+    position: relative;
+}
+
+.header__nav .depart__btn .depart__hover {
+    position: absolute;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 13px 32px rgba(51, 51, 51, 0.1);
+    padding: 20px;
+
+    /* trước khi hover: ẩn đi */
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s ease;
+    transform: translateY(10px);
+}
+
+.header__nav .depart__btn:hover .depart__hover {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.header__nav .depart__btn .depart__hover li {
+    list-style: none;
+    padding: 8px 0;
+
+}
+
+.header__nav .depart__btn .depart__hover li a {
+    color: black;
+    text-decoration: none;
 }

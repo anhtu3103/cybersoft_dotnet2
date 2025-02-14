@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\pages\\registerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\pages\\registerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\RegisterForm.razor",
+              "RelativeDocumentMoniker": "session25\\Pages\\RegisterForm.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\RegisterForm.razor",
+              "RelativeToolTip": "session25\\Pages\\RegisterForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:15:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactForm.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\ContactForm.razor",
+              "RelativeDocumentMoniker": "session25\\Pages\\ContactForm.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\ContactForm.razor",
+              "RelativeToolTip": "session25\\Pages\\ContactForm.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:56:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "session25\\Models\\ContactModel.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\ContactModel.cs",
+              "RelativeToolTip": "session25\\Models\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:53:15.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "session25\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\UserModel.cs",
+              "RelativeToolTip": "session25\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:35:03.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
