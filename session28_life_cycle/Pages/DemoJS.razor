@@ -1,0 +1,34 @@
+﻿@page "/demo-js-blazor"
+
+@* nhúng IJSRuntime*@
+@inject IJSRuntime JSRuntime
+
+<div>
+    <button @onclick="HandleJS">
+        Test Javascript
+    </button>
+    <button @onclick="showMessage">
+        demo function javascript
+    </button>
+    <button @onclick="sum">
+        demo function javascript
+    </button>
+</div>
+
+@code {
+    private async Task HandleJS()
+    {
+        await JSRuntime.InvokeVoidAsync("console.log", "Helo from blazor");
+    }
+
+    private async Task showMessage()
+    {
+        await JSRuntime.InvokeVoidAsync("showMessage", "aaaaaa");
+    }
+
+    private async Task sum()
+    {
+        await JSRuntime.InvokeVoidAsync("sum", 5,10);
+    }
+
+}

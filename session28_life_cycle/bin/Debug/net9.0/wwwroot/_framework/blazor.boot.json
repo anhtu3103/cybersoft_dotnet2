@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "session28_life_cycle",
   "resources": {
-    "hash": "sha256-jKkA/QNsts7AoVtJ5NQM5q3D5pO9UJU4GH0O4CLQEK8=",
+    "hash": "sha256-gaqV6MB4A1n6MJqn1S/Fmj0Clf0o/zy8AKlNwX/sfhg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "session28_life_cycle.bzxq24vh0p.wasm": "session28_life_cycle.wasm",
-      "session28_life_cycle.spgffinx21.pdb": "session28_life_cycle.pdb"
+      "session28_life_cycle.igi2nj0nqn.wasm": "session28_life_cycle.wasm",
+      "session28_life_cycle.v813hd25lh.pdb": "session28_life_cycle.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "session28_life_cycle.bzxq24vh0p.wasm": "sha256-hzDqf72NaHxPlygjI2Qu69RQ55hzLJczzG54f3kOo0g="
+      "session28_life_cycle.igi2nj0nqn.wasm": "sha256-8ixXgAgAtRUP6eYuoSl7s5kiVS7CVcLBVKQAT884Afc="
     },
     "pdb": {
-      "session28_life_cycle.spgffinx21.pdb": "sha256-YKnB2G7qxkYIOs3JJhnPsjDCewRC3eGo7+VnhNgLrvE="
+      "session28_life_cycle.v813hd25lh.pdb": "sha256-8XEhlpi4zA792OxDxr4deJaIGbBGPm31xdTmGiiRSGk="
     }
   },
   "cacheBootResources": true,

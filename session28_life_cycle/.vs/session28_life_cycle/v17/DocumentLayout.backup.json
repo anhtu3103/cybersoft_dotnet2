@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\pages\\demojs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:pages\\demojs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\components\\productitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:components\\productitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB4BF32-53BB-468F-B001-0B0C67362B8A}|session28_life_cycle.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-19T14:09:26.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T14:08:38.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoJS.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Pages\\DemoJS.razor",
+              "RelativeDocumentMoniker": "Pages\\DemoJS.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Pages\\DemoJS.razor",
+              "RelativeToolTip": "Pages\\DemoJS.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:01:23.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductItem.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Components\\ProductItem.razor",
+              "RelativeDocumentMoniker": "Components\\ProductItem.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Components\\ProductItem.razor",
+              "RelativeToolTip": "Components\\ProductItem.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T13:00:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductList.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Pages\\ProductList.razor",
+              "RelativeToolTip": "Pages\\ProductList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T12:40:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session28_life_cycle\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwDgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T02:43:02.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
