@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8ukf/kyqDFG6X4MQ1v87L0SrWJGK8xiWe/C9eEJ3beQ=",
+  "Hash": "wdYbo/Q9xFczaYq97L74YmUZVN6sjAtZextydxMGtDs=",
   "Source": "session24_bt",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "z9y06e9za1",
-      "Integrity": "h7vnSvYYkb5dBTEeZoyvolngpZiv1ZLSM50b0hJ5Ql8=",
+      "Fingerprint": "9cudawko73",
+      "Integrity": "Jxu7+s4SoZDl7ZddnojrAfIaGIUNoVDs1/w3TdMTKxE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "mmx17hnl2d",
-      "Integrity": "flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc=",
+      "Fingerprint": "1ug3jiwi29",
+      "Integrity": "B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\session24_bt.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "fzch6be3k2",
-      "Integrity": "BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw=",
+      "Fingerprint": "omlkumcpwm",
+      "Integrity": "gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\webcil\\session24_bt.wasm"
@@ -4847,7 +4847,7 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Linq.wasm"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-z9y06e9za1.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-9cudawko73.gz",
       "SourceId": "session24_bt",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\",
@@ -4861,8 +4861,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2midmkuvsz",
-      "Integrity": "euW30WpFDnYLdAF4OVlPASgDhFNHvtgLTmN7nKq5zKw=",
+      "Fingerprint": "suxaa34do2",
+      "Integrity": "HICiR/B6sUuAqZq9deDPPi6FIMIK48egvTVcX+TnoiU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5855,12 +5855,12 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.wasm"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-mmx17hnl2d.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-1ug3jiwi29.gz",
       "SourceId": "session24_bt",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session24_bt#[.{fingerprint=mmx17hnl2d}]!.pdb.gz",
+      "RelativePath": "_framework/session24_bt#[.{fingerprint=1ug3jiwi29}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5869,8 +5869,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "stu4qqgekt",
-      "Integrity": "8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao=",
+      "Fingerprint": "pk68x1rjo6",
+      "Integrity": "Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.pdb"
@@ -7829,12 +7829,12 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Globalization.Extensions.wasm"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-fzch6be3k2.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-omlkumcpwm.gz",
       "SourceId": "session24_bt",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session24_bt#[.{fingerprint=fzch6be3k2}]!.wasm.gz",
+      "RelativePath": "_framework/session24_bt#[.{fingerprint=omlkumcpwm}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7843,8 +7843,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5mj6yyj0pd",
-      "Integrity": "M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA=",
+      "Fingerprint": "ppqb9k7sw4",
+      "Integrity": "A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.wasm"
@@ -10726,11 +10726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h7vnSvYYkb5dBTEeZoyvolngpZiv1ZLSM50b0hJ5Ql8=\""
+          "Value": "\"Jxu7+s4SoZDl7ZddnojrAfIaGIUNoVDs1/w3TdMTKxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10740,18 +10740,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h7vnSvYYkb5dBTEeZoyvolngpZiv1ZLSM50b0hJ5Ql8="
+          "Value": "sha256-Jxu7+s4SoZDl7ZddnojrAfIaGIUNoVDs1/w3TdMTKxE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-z9y06e9za1.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-9cudawko73.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081201786"
+          "Quality": "0.000081195193"
         }
       ],
       "ResponseHeaders": [
@@ -10761,15 +10761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12315"
         },
         {
           "Name": "ETag",
-          "Value": "\"euW30WpFDnYLdAF4OVlPASgDhFNHvtgLTmN7nKq5zKw=\""
+          "Value": "\"HICiR/B6sUuAqZq9deDPPi6FIMIK48egvTVcX+TnoiU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:44 GMT"
+          "Value": "Wed, 19 Feb 2025 18:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10789,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h7vnSvYYkb5dBTEeZoyvolngpZiv1ZLSM50b0hJ5Ql8=\""
+          "Value": "W/\"Jxu7+s4SoZDl7ZddnojrAfIaGIUNoVDs1/w3TdMTKxE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h7vnSvYYkb5dBTEeZoyvolngpZiv1ZLSM50b0hJ5Ql8="
+          "Value": "sha256-Jxu7+s4SoZDl7ZddnojrAfIaGIUNoVDs1/w3TdMTKxE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-z9y06e9za1.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\3mu8ijqhvr-9cudawko73.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10810,7 +10810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12315"
         },
         {
           "Name": "Content-Type",
@@ -10818,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"euW30WpFDnYLdAF4OVlPASgDhFNHvtgLTmN7nKq5zKw=\""
+          "Value": "\"HICiR/B6sUuAqZq9deDPPi6FIMIK48egvTVcX+TnoiU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:44 GMT"
+          "Value": "Wed, 19 Feb 2025 18:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10840,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-euW30WpFDnYLdAF4OVlPASgDhFNHvtgLTmN7nKq5zKw="
+          "Value": "sha256-HICiR/B6sUuAqZq9deDPPi6FIMIK48egvTVcX+TnoiU="
         }
       ]
     },
@@ -22306,168 +22306,7 @@
       ]
     },
     {
-      "Route": "_framework/session24_bt.fzch6be3k2.wasm",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30485"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fzch6be3k2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session24_bt.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session24_bt.fzch6be3k2.wasm",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-fzch6be3k2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000101317123"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9869"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fzch6be3k2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session24_bt.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session24_bt.fzch6be3k2.wasm.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-fzch6be3k2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9869"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fzch6be3k2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session24_bt.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session24_bt.mmx17hnl2d.pdb",
+      "Route": "_framework/session24_bt.1ug3jiwi29.pdb",
       "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22477,7 +22316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30612"
+          "Value": "31444"
         },
         {
           "Name": "Content-Type",
@@ -22485,11 +22324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc=\""
+          "Value": "\"B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:54 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22499,7 +22338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmx17hnl2d"
+          "Value": "1ug3jiwi29"
         },
         {
           "Name": "label",
@@ -22507,18 +22346,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc="
+          "Value": "sha256-B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE="
         }
       ]
     },
     {
-      "Route": "_framework/session24_bt.mmx17hnl2d.pdb",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-mmx17hnl2d.gz",
+      "Route": "_framework/session24_bt.1ug3jiwi29.pdb",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-1ug3jiwi29.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000042045072"
+          "Quality": "0.000040698384"
         }
       ],
       "ResponseHeaders": [
@@ -22528,15 +22367,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23783"
+          "Value": "24570"
         },
         {
           "Name": "ETag",
-          "Value": "\"8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao=\""
+          "Value": "\"Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22556,13 +22395,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc=\""
+          "Value": "W/\"B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmx17hnl2d"
+          "Value": "1ug3jiwi29"
         },
         {
           "Name": "label",
@@ -22570,13 +22409,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc="
+          "Value": "sha256-B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE="
         }
       ]
     },
     {
-      "Route": "_framework/session24_bt.mmx17hnl2d.pdb.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-mmx17hnl2d.gz",
+      "Route": "_framework/session24_bt.1ug3jiwi29.pdb.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-1ug3jiwi29.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22585,7 +22424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23783"
+          "Value": "24570"
         },
         {
           "Name": "Content-Type",
@@ -22593,11 +22432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao=\""
+          "Value": "\"Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22615,7 +22454,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmx17hnl2d"
+          "Value": "1ug3jiwi29"
         },
         {
           "Name": "label",
@@ -22623,7 +22462,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao="
+          "Value": "sha256-Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session24_bt.omlkumcpwm.wasm",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session24_bt.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omlkumcpwm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session24_bt.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session24_bt.omlkumcpwm.wasm",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-omlkumcpwm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000095474508"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omlkumcpwm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session24_bt.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session24_bt.omlkumcpwm.wasm.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-omlkumcpwm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omlkumcpwm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session24_bt.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY="
         }
       ]
     },
@@ -22638,7 +22638,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30612"
+          "Value": "31444"
         },
         {
           "Name": "Content-Type",
@@ -22646,11 +22646,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc=\""
+          "Value": "\"B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:54 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22660,18 +22660,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc="
+          "Value": "sha256-B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE="
         }
       ]
     },
     {
       "Route": "_framework/session24_bt.pdb",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-mmx17hnl2d.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-1ug3jiwi29.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000042045072"
+          "Quality": "0.000040698384"
         }
       ],
       "ResponseHeaders": [
@@ -22681,15 +22681,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23783"
+          "Value": "24570"
         },
         {
           "Name": "ETag",
-          "Value": "\"8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao=\""
+          "Value": "\"Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22709,19 +22709,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc=\""
+          "Value": "W/\"B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-flv1SFpcexZGr0A7gZHTI8bz26KuMbMwTKwNtYET+hc="
+          "Value": "sha256-B43ub1cceCaOoM9AudL++7IhKHw1GREluChOaXa48EE="
         }
       ]
     },
     {
       "Route": "_framework/session24_bt.pdb.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-mmx17hnl2d.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\ambl65cyma-1ug3jiwi29.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22730,7 +22730,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23783"
+          "Value": "24570"
         },
         {
           "Name": "Content-Type",
@@ -22738,11 +22738,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao=\""
+          "Value": "\"Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22760,7 +22760,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8Ah97UwHYqrI5XGa+/CgONYJ+Kqa2UDdQ4VHNw2K2Ao="
+          "Value": "sha256-Sagjk0HOI2VuH4Orn8IakUXjK31DtBxzU0BC2hYo9B4="
         }
       ]
     },
@@ -22775,7 +22775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30485"
+          "Value": "35093"
         },
         {
           "Name": "Content-Type",
@@ -22783,11 +22783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw=\""
+          "Value": "\"gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:54 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22797,18 +22797,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw="
+          "Value": "sha256-gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI="
         }
       ]
     },
     {
       "Route": "_framework/session24_bt.wasm",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-fzch6be3k2.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-omlkumcpwm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000101317123"
+          "Quality": "0.000095474508"
         }
       ],
       "ResponseHeaders": [
@@ -22818,15 +22818,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9869"
+          "Value": "10473"
         },
         {
           "Name": "ETag",
-          "Value": "\"M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA=\""
+          "Value": "\"A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22846,19 +22846,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw=\""
+          "Value": "W/\"gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BTJrGPrEVUWva8taOBYDw8UX3v6SVTSql7KPotY3QXw="
+          "Value": "sha256-gKBK+J2cIaVnpkuPV0gvGpyWj1IXcpVJy0HqM5n+cLI="
         }
       ]
     },
     {
       "Route": "_framework/session24_bt.wasm.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-fzch6be3k2.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session24_bt\\obj\\Debug\\net9.0\\compressed\\mxcs8ejxcp-omlkumcpwm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22867,7 +22867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9869"
+          "Value": "10473"
         },
         {
           "Name": "Content-Type",
@@ -22875,11 +22875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA=\""
+          "Value": "\"A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:11:55 GMT"
+          "Value": "Wed, 19 Feb 2025 18:27:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22897,7 +22897,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M/1e5h+Kf/fHezt16wzU4Afra8CHZHYOGBuDHM7lOHA="
+          "Value": "sha256-A7sjbSDwB3TAejRCHCT1y++lpqQ+Ji6W04hU5LrfnfY="
         }
       ]
     },

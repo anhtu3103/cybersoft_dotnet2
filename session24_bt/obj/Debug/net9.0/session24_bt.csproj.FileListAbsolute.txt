@@ -1075,10 +1075,10 @@ D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\refint\sess
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\session24_bt.pdb
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\ref\session24_bt.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\cio6g7uf53-ga95s8df1j.gz
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.mmx17hnl2d.pdb
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.fzch6be3k2.wasm
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.mmx17hnl2d.pdb.gz
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.fzch6be3k2.wasm.gz
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\mxcs8ejxcp-fzch6be3k2.gz
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\ambl65cyma-mmx17hnl2d.gz
-D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\3mu8ijqhvr-z9y06e9za1.gz
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.1ug3jiwi29.pdb
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.omlkumcpwm.wasm
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.1ug3jiwi29.pdb.gz
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\bin\Debug\net9.0\wwwroot\_framework\session24_bt.omlkumcpwm.wasm.gz
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\mxcs8ejxcp-omlkumcpwm.gz
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\ambl65cyma-1ug3jiwi29.gz
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session24_bt\obj\Debug\net9.0\compressed\3mu8ijqhvr-9cudawko73.gz
