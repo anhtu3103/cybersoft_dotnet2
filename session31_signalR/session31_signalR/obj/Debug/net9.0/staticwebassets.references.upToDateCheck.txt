@@ -1,0 +1,1 @@
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR.Client\obj\Debug\net9.0\staticwebassets.build.json

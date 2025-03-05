@@ -1,0 +1,73 @@
+﻿@page "/contact"
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.AspNetCore.Components.Forms
+
+<h2>Contact us</h2>
+
+
+<EditForm EditContext="editContext">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Full name</label>
+                <input class="form-control" value="@contactModel.FullName" @oninput="e => UpdateField(nameof(contactModel.FullName), e.Value?.ToString())"/>
+                <ValidationMessage For="@(() => contactModel.FullName)"></ValidationMessage>
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" value="@contactModel.Email" @oninput="e => UpdateField(nameof(contactModel.Email), e.Value?.ToString())" />
+                <ValidationMessage For="@(() => contactModel.Email)"></ValidationMessage>
+            </div>
+            <div class="form-group">
+                <label>Phone number</label>
+                <input class="form-control" value="@contactModel.PhoneNumbers" @oninput="e => UpdateField(nameof(contactModel.PhoneNumbers), e.Value?.ToString())" />
+                <ValidationMessage For="@(() => contactModel.PhoneNumbers)"></ValidationMessage>
+            </div>
+            <button class="btn btn-success" type="submit">submit</button>
+        </div>
+
+        <div class="col-md-6">
+            <h3>Information</h3>
+            <div class="card p-3">
+                <p><strong>Full name:</strong> @contactModel.FullName</p>
+                <p><strong>Email:</strong> @contactModel.Email</p>
+                <p><strong>Phone number:</strong> @contactModel.PhoneNumbers</p>
+            </div>
+        </div>
+    </div>
+</EditForm>
+
+@code
+{
+    private ContactModel contactModel = new()
+        {
+            FullName = "Son Doong",
+            Email = "SonDoong@gmail.com",
+            PhoneNumbers = "0980272181"
+        };
+
+    private EditContext? editContext;
+
+    // Khởi tạo
+    protected override void OnInitialized()
+    {
+        editContext = new EditContext(contactModel);
+    }
+
+    private void UpdateField(string fieldName, string value)
+    {
+        // nameOf => lấy tên của thuộc tính
+
+        //lấy thông tin của attribute trong class contactModel
+        var property = typeof(ContactModel).GetProperty(fieldName);
+        //chuyển đổi value từ event sang đúng kiểu dữ liệu của thuộc tính đó
+        if(property != null)
+        {
+            property.SetValue(contactModel, Convert.ChangeType(value, property.PropertyType)); //set value
+        }
+
+        //notify cho editContext validation data
+        editContext.NotifyFieldChanged(new FieldIdentifier(contactModel, fieldName));
+    }
+}

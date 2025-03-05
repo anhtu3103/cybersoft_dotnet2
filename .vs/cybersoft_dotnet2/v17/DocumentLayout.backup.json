@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B4C76CA-9DC7-47D6-A548-AEF4EB2531DA}|session26_validation_component_razor\\session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B4C76CA-9DC7-47D6-A548-AEF4EB2531DA}|session26_validation_component_razor\\session26_validation_component_razor.csproj|solutionrelative:session26_validation_component_razor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\pages\\registerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\pages\\registerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A20D1DF-D9AC-47BE-B96D-24AD34BB16B6}|session25\\session25.csproj|solutionrelative:session25\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4C76CA-9DC7-47D6-A548-AEF4EB2531DA}|session26_validation_component_razor\\session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B4C76CA-9DC7-47D6-A548-AEF4EB2531DA}|session26_validation_component_razor\\session26_validation_component_razor.csproj|solutionrelative:session26_validation_component_razor\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactForm.razor",
-              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\ContactForm.razor",
-              "RelativeDocumentMoniker": "session25\\Pages\\ContactForm.razor",
-              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\ContactForm.razor",
-              "RelativeToolTip": "session25\\Pages\\ContactForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "session26_validation_component_razor\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "session26_validation_component_razor\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T13:56:51.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerModel.cs",
-              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\CustomerModel.cs",
-              "RelativeDocumentMoniker": "session25\\Models\\CustomerModel.cs",
-              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\CustomerModel.cs",
-              "RelativeToolTip": "session25\\Models\\CustomerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T13:53:15.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterForm.razor",
-              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\RegisterForm.razor",
-              "RelativeDocumentMoniker": "session25\\Pages\\RegisterForm.razor",
-              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Pages\\RegisterForm.razor",
-              "RelativeToolTip": "session25\\Pages\\RegisterForm.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T12:30:36.238Z",
+              "WhenOpened": "2025-02-23T08:39:18.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "session25\\Models\\UserModel.cs",
-              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session25\\Models\\UserModel.cs",
-              "RelativeToolTip": "session25\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T12:35:03.876Z",
+              "Title": "ContactForm.razor",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Pages\\ContactForm.razor",
+              "RelativeDocumentMoniker": "session26_validation_component_razor\\Pages\\ContactForm.razor",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Pages\\ContactForm.razor",
+              "RelativeToolTip": "session26_validation_component_razor\\Pages\\ContactForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T08:25:23.831Z",
               "EditorCaption": ""
             }
           ]

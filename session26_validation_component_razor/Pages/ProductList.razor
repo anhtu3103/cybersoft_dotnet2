@@ -1,0 +1,47 @@
+﻿@page "/products"
+@using session26_validation_component_razor.Components;
+@using session26_validation_component_razor.Models
+
+<h2 class="text-center">Danh sách sản phẩm</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var product in productModels)
+        {
+            <div class="col-md-4 mb-4">
+                <ProductItem product="product">
+                    @* truyền html, css xuống cho component con [ProductItem] *@
+                    <p class="text-secondary text-center">Sản phẩm chất lượng cao</p>
+                </ProductItem>
+            </div>
+        }
+    </div>
+</div>
+
+
+@code {
+    private List<ProductModel> productModels = new()
+    {
+        new ProductModel {
+            Id = "1",
+            Name = "Air blade 2020",
+            Price = "60000000",
+            ImageUrl = "ab.png",
+            Quantity = 10
+        },
+        new ProductModel {
+            Id = "2",
+            Name = "Air blade 2020",
+            Price = "60000000",
+            ImageUrl = "ab.png",
+            Quantity = 10
+        },
+        new ProductModel {
+            Id = "3",
+            Name = "Air blade 2020",
+            Price = "60000000",
+            ImageUrl = "ab.png",
+            Quantity = 10
+        }
+    };
+}
