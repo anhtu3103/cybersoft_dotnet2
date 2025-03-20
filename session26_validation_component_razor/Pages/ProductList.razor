@@ -2,7 +2,35 @@
 @using session26_validation_component_razor.Components;
 @using session26_validation_component_razor.Models
 
-<h2 class="text-center">Danh sách sản phẩm</h2>
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center my-4">
+        <h2 class="text-center">Danh sách sản phẩm</h2>
+        <button class="btn btn-secondary position-relative" data-bs-toggle="modal" data-bs-target"="#cartModal">
+            <i class="fa fa-shopping-cart"></i>
+            @*thẻ span hiện số lượng sản phẩm trên giỏ hàng *@
+            <span class="position-absolute bg-danger rounded-pill top-0 start-100 translate-middle badge" >10</span>
+        </button>
+    </div>
+</div>
+
+<div class="modal fade" id="cartModal" tabindex="-1" aria-labelledby="cartModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="cartModalLabel">🛒 Giỏ hàng</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p class="text-center text-muted">Giỏ hàng trống</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                <button type="button" class="btn btn-success">Thanh toán</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <div class="container">
     <div class="row">

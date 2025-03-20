@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xA67SZfmMaGcOQJ4FZbmbd8UAOZrk/3sEwWBq18Me1c=",
+  "Hash": "VhCrucm/jkEh/oVdvuW3fCNCX3XypbmbffIdqNsV6rg=",
   "Source": "session26_validation_component_razor",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "5s6tsnnf9d",
-      "Integrity": "lU9khNT3II8JOI52UnUY23zjN174YeUc8Ib1JX/ut9o=",
+      "Fingerprint": "qkyh89idwu",
+      "Integrity": "SvU55Wy/iiJsTP9e5tQOiesa9tSYEEJZnVMc4cEw2E8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "gcwwa7zt4r",
-      "Integrity": "wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc=",
+      "Fingerprint": "nsvdcvud7q",
+      "Integrity": "N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\session26_validation_component_razor.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "wrknk8w6uh",
-      "Integrity": "FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA=",
+      "Fingerprint": "xnsuj79swc",
+      "Integrity": "YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\webcil\\session26_validation_component_razor.wasm"
@@ -6275,12 +6275,12 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-gcwwa7zt4r.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-nsvdcvud7q.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=gcwwa7zt4r}]!.pdb.gz",
+      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=nsvdcvud7q}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6289,8 +6289,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r0r1ko4spd",
-      "Integrity": "9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q=",
+      "Fingerprint": "laiv0lksu9",
+      "Integrity": "XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb"
@@ -8249,12 +8249,12 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Compression.wasm"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-d1ol3iylc6.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-6olq5xa23n.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=d1ol3iylc6}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=6olq5xa23n}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8263,8 +8263,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tfgctxctly",
-      "Integrity": "x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg=",
+      "Fingerprint": "zb1d1oyxvq",
+      "Integrity": "/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html"
@@ -8627,12 +8627,12 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-wrknk8w6uh.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-xnsuj79swc.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=wrknk8w6uh}]!.wasm.gz",
+      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=xnsuj79swc}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kpnd9smi1i",
-      "Integrity": "uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc=",
+      "Fingerprint": "5rb72s2sa4",
+      "Integrity": "QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm"
@@ -8732,7 +8732,7 @@
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-5s6tsnnf9d.gz",
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-qkyh89idwu.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
@@ -8746,8 +8746,8 @@
       "RelatedAsset": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ayzrgp9r6s",
-      "Integrity": "wlKmPVXoXxop3ArigFyXmQLXAfp0NXpmZuWxrXFI8Ao=",
+      "Fingerprint": "b4nmw5pbb9",
+      "Integrity": "i8JdG3I1VKQW46AQBYY0EbNNUjb0JwFVLkk7F/DvdCY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9754,179 +9754,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d1ol3iylc6",
-      "Integrity": "8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc=",
+      "Fingerprint": "6olq5xa23n",
+      "Integrity": "NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pj5nd1wqec",
-      "Integrity": "KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "46ein0sx1k",
-      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v0zj4ognzu",
-      "Integrity": "8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "37tfw0ft22",
-      "Integrity": "j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hrwsygsryq",
-      "Integrity": "3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pk9g2wxc8p",
-      "Integrity": "h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "session26_validation_component_razor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ft3s53vfgj",
-      "Integrity": "rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -10433,6 +10265,174 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s35ty4nyc5",
+      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pj5nd1wqec",
+      "Integrity": "KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0zj4ognzu",
+      "Integrity": "8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37tfw0ft22",
+      "Integrity": "j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hrwsygsryq",
+      "Integrity": "3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pk9g2wxc8p",
+      "Integrity": "h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "session26_validation_component_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ft3s53vfgj",
+      "Integrity": "rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Discovered",
@@ -10726,11 +10726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lU9khNT3II8JOI52UnUY23zjN174YeUc8Ib1JX/ut9o=\""
+          "Value": "\"SvU55Wy/iiJsTP9e5tQOiesa9tSYEEJZnVMc4cEw2E8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10740,18 +10740,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lU9khNT3II8JOI52UnUY23zjN174YeUc8Ib1JX/ut9o="
+          "Value": "sha256-SvU55Wy/iiJsTP9e5tQOiesa9tSYEEJZnVMc4cEw2E8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-5s6tsnnf9d.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-qkyh89idwu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080736315"
+          "Quality": "0.000081083273"
         }
       ],
       "ResponseHeaders": [
@@ -10761,15 +10761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12385"
+          "Value": "12332"
         },
         {
           "Name": "ETag",
-          "Value": "\"wlKmPVXoXxop3ArigFyXmQLXAfp0NXpmZuWxrXFI8Ao=\""
+          "Value": "\"i8JdG3I1VKQW46AQBYY0EbNNUjb0JwFVLkk7F/DvdCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:51:23 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10789,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lU9khNT3II8JOI52UnUY23zjN174YeUc8Ib1JX/ut9o=\""
+          "Value": "W/\"SvU55Wy/iiJsTP9e5tQOiesa9tSYEEJZnVMc4cEw2E8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lU9khNT3II8JOI52UnUY23zjN174YeUc8Ib1JX/ut9o="
+          "Value": "sha256-SvU55Wy/iiJsTP9e5tQOiesa9tSYEEJZnVMc4cEw2E8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-5s6tsnnf9d.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-qkyh89idwu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10810,7 +10810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12385"
+          "Value": "12332"
         },
         {
           "Name": "Content-Type",
@@ -10818,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wlKmPVXoXxop3ArigFyXmQLXAfp0NXpmZuWxrXFI8Ao=\""
+          "Value": "\"i8JdG3I1VKQW46AQBYY0EbNNUjb0JwFVLkk7F/DvdCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 16:51:23 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10840,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wlKmPVXoXxop3ArigFyXmQLXAfp0NXpmZuWxrXFI8Ao="
+          "Value": "sha256-i8JdG3I1VKQW46AQBYY0EbNNUjb0JwFVLkk7F/DvdCY="
         }
       ]
     },
@@ -22306,7 +22306,7 @@
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.gcwwa7zt4r.pdb",
+      "Route": "_framework/session26_validation_component_razor.nsvdcvud7q.pdb",
       "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22316,7 +22316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32176"
+          "Value": "32644"
         },
         {
           "Name": "Content-Type",
@@ -22324,11 +22324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc=\""
+          "Value": "\"N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:52 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22338,7 +22338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gcwwa7zt4r"
+          "Value": "nsvdcvud7q"
         },
         {
           "Name": "label",
@@ -22346,18 +22346,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc="
+          "Value": "sha256-N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.gcwwa7zt4r.pdb",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-gcwwa7zt4r.gz",
+      "Route": "_framework/session26_validation_component_razor.nsvdcvud7q.pdb",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-nsvdcvud7q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041435319"
+          "Quality": "0.000040615735"
         }
       ],
       "ResponseHeaders": [
@@ -22367,15 +22367,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24133"
+          "Value": "24620"
         },
         {
           "Name": "ETag",
-          "Value": "\"9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q=\""
+          "Value": "\"XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22395,13 +22395,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc=\""
+          "Value": "W/\"N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gcwwa7zt4r"
+          "Value": "nsvdcvud7q"
         },
         {
           "Name": "label",
@@ -22409,13 +22409,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc="
+          "Value": "sha256-N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.gcwwa7zt4r.pdb.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-gcwwa7zt4r.gz",
+      "Route": "_framework/session26_validation_component_razor.nsvdcvud7q.pdb.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-nsvdcvud7q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22424,7 +22424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24133"
+          "Value": "24620"
         },
         {
           "Name": "Content-Type",
@@ -22432,11 +22432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q=\""
+          "Value": "\"XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22454,7 +22454,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gcwwa7zt4r"
+          "Value": "nsvdcvud7q"
         },
         {
           "Name": "label",
@@ -22462,7 +22462,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q="
+          "Value": "sha256-XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY="
         }
       ]
     },
@@ -22477,7 +22477,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32176"
+          "Value": "32644"
         },
         {
           "Name": "Content-Type",
@@ -22485,11 +22485,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc=\""
+          "Value": "\"N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:52 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22499,18 +22499,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc="
+          "Value": "sha256-N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I="
         }
       ]
     },
     {
       "Route": "_framework/session26_validation_component_razor.pdb",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-gcwwa7zt4r.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-nsvdcvud7q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041435319"
+          "Quality": "0.000040615735"
         }
       ],
       "ResponseHeaders": [
@@ -22520,15 +22520,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24133"
+          "Value": "24620"
         },
         {
           "Name": "ETag",
-          "Value": "\"9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q=\""
+          "Value": "\"XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22548,19 +22548,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc=\""
+          "Value": "W/\"N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wKHulwCzFn9fvX8QEAmwNgH/42GMeNg/joqiwBHU7gc="
+          "Value": "sha256-N2qjyWdpH0NKnyh2jdn1AEMIU1a9DcVmeAbQctrJQ7I="
         }
       ]
     },
     {
       "Route": "_framework/session26_validation_component_razor.pdb.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-gcwwa7zt4r.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-nsvdcvud7q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22569,7 +22569,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24133"
+          "Value": "24620"
         },
         {
           "Name": "Content-Type",
@@ -22577,11 +22577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q=\""
+          "Value": "\"XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22599,7 +22599,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9YzWr5Sy/QK/UiRc5SjsUTeEcnFVIn2SVCjQbq/rz9Q="
+          "Value": "sha256-XSJkq1eCvCl9nJjvU6z2LDlawrHlHQIQi4SSFw2/ciY="
         }
       ]
     },
@@ -22614,7 +22614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30485"
+          "Value": "32533"
         },
         {
           "Name": "Content-Type",
@@ -22622,11 +22622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA=\""
+          "Value": "\"YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:52 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22636,18 +22636,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA="
+          "Value": "sha256-YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s="
         }
       ]
     },
     {
       "Route": "_framework/session26_validation_component_razor.wasm",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-wrknk8w6uh.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-xnsuj79swc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000083836351"
+          "Quality": "0.000079491256"
         }
       ],
       "ResponseHeaders": [
@@ -22657,15 +22657,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11927"
+          "Value": "12579"
         },
         {
           "Name": "ETag",
-          "Value": "\"uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc=\""
+          "Value": "\"QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22685,19 +22685,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA=\""
+          "Value": "W/\"YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA="
+          "Value": "sha256-YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s="
         }
       ]
     },
     {
       "Route": "_framework/session26_validation_component_razor.wasm.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-wrknk8w6uh.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-xnsuj79swc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22706,7 +22706,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11927"
+          "Value": "12579"
         },
         {
           "Name": "Content-Type",
@@ -22714,11 +22714,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc=\""
+          "Value": "\"QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22736,12 +22736,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc="
+          "Value": "sha256-QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.wrknk8w6uh.wasm",
+      "Route": "_framework/session26_validation_component_razor.xnsuj79swc.wasm",
       "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22751,7 +22751,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30485"
+          "Value": "32533"
         },
         {
           "Name": "Content-Type",
@@ -22759,11 +22759,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA=\""
+          "Value": "\"YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:52 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22773,7 +22773,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wrknk8w6uh"
+          "Value": "xnsuj79swc"
         },
         {
           "Name": "label",
@@ -22781,18 +22781,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA="
+          "Value": "sha256-YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.wrknk8w6uh.wasm",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-wrknk8w6uh.gz",
+      "Route": "_framework/session26_validation_component_razor.xnsuj79swc.wasm",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-xnsuj79swc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000083836351"
+          "Quality": "0.000079491256"
         }
       ],
       "ResponseHeaders": [
@@ -22802,15 +22802,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11927"
+          "Value": "12579"
         },
         {
           "Name": "ETag",
-          "Value": "\"uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc=\""
+          "Value": "\"QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22830,13 +22830,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA=\""
+          "Value": "W/\"YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wrknk8w6uh"
+          "Value": "xnsuj79swc"
         },
         {
           "Name": "label",
@@ -22844,13 +22844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FAOw4pIcwQySIOLJNaVoDF5jMwXOp2Jj2qik0K3YhKA="
+          "Value": "sha256-YxQyeSjlcmz5H2msxe4fOnd8bScYofM1uW2rVrBsL3s="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.wrknk8w6uh.wasm.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-wrknk8w6uh.gz",
+      "Route": "_framework/session26_validation_component_razor.xnsuj79swc.wasm.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-xnsuj79swc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22859,7 +22859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11927"
+          "Value": "12579"
         },
         {
           "Name": "Content-Type",
@@ -22867,11 +22867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc=\""
+          "Value": "\"QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 17:02:53 GMT"
+          "Value": "Wed, 05 Mar 2025 17:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22889,7 +22889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wrknk8w6uh"
+          "Value": "xnsuj79swc"
         },
         {
           "Name": "label",
@@ -22897,7 +22897,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uM1gxoqgZU/j5R/CTbE0RxZL18u5Fomb5EY0t2kZUwc="
+          "Value": "sha256-QYnpyebEEyU89t3QNVLaOY/6/3O17N8YIIrwu0Ry9t0="
         }
       ]
     },
@@ -71722,13 +71722,13 @@
       ]
     },
     {
-      "Route": "index.d1ol3iylc6.html",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-d1ol3iylc6.gz",
+      "Route": "index.6olq5xa23n.html",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-6olq5xa23n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002044989775"
+          "Quality": "0.001396648045"
         }
       ],
       "ResponseHeaders": [
@@ -71738,15 +71738,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "715"
         },
         {
           "Name": "ETag",
-          "Value": "\"x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg=\""
+          "Value": "\"/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71766,13 +71766,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc=\""
+          "Value": "W/\"NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1ol3iylc6"
+          "Value": "6olq5xa23n"
         },
         {
           "Name": "label",
@@ -71780,12 +71780,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc="
+          "Value": "sha256-NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY="
         }
       ]
     },
     {
-      "Route": "index.d1ol3iylc6.html",
+      "Route": "index.6olq5xa23n.html",
       "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71795,7 +71795,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1027"
+          "Value": "1412"
         },
         {
           "Name": "Content-Type",
@@ -71803,11 +71803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc=\""
+          "Value": "\"NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71817,7 +71817,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1ol3iylc6"
+          "Value": "6olq5xa23n"
         },
         {
           "Name": "label",
@@ -71825,13 +71825,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc="
+          "Value": "sha256-NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY="
         }
       ]
     },
     {
-      "Route": "index.d1ol3iylc6.html.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-d1ol3iylc6.gz",
+      "Route": "index.6olq5xa23n.html.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-6olq5xa23n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71840,7 +71840,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "715"
         },
         {
           "Name": "Content-Type",
@@ -71848,11 +71848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg=\""
+          "Value": "\"/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71870,7 +71870,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1ol3iylc6"
+          "Value": "6olq5xa23n"
         },
         {
           "Name": "label",
@@ -71878,18 +71878,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg="
+          "Value": "sha256-/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-d1ol3iylc6.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-6olq5xa23n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002044989775"
+          "Quality": "0.001396648045"
         }
       ],
       "ResponseHeaders": [
@@ -71899,15 +71899,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "715"
         },
         {
           "Name": "ETag",
-          "Value": "\"x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg=\""
+          "Value": "\"/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71927,13 +71927,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc=\""
+          "Value": "W/\"NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc="
+          "Value": "sha256-NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY="
         }
       ]
     },
@@ -71948,7 +71948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1027"
+          "Value": "1412"
         },
         {
           "Name": "Content-Type",
@@ -71956,11 +71956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc=\""
+          "Value": "\"NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71970,13 +71970,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8TeblOP4hkoYCcJRpPQtD8mFe5ndpQRAQwIQK212OGc="
+          "Value": "sha256-NllEcb4vCwFa9DC20xJ87BzeKMPiqoYQ0EdwGXJ80TY="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-d1ol3iylc6.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rmqmkrpm7b-6olq5xa23n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71985,7 +71985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "715"
         },
         {
           "Name": "Content-Type",
@@ -71993,11 +71993,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg=\""
+          "Value": "\"/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+          "Value": "Wed, 05 Mar 2025 16:33:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72015,2391 +72015,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x8ARXFTcPEeu770wSyyL5nkXPO2shpedzJfZ4s44pPg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029869470"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33478"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008702993"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114902"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114902"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008702993"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114902"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114902"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032134709"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31118"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032134709"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31118"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010874175"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91960"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91960"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010874175"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91960"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91960"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029969731"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029969731"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008704887"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114877"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679615"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114877"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008704887"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114877"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679615"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114877"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032115101"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31137"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232911"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010885302"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91866"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91866"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010885302"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91866"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91866"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032115101"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31137"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232911"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029869470"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33478"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
+          "Value": "sha256-/6i/N6A5twYBYBs6Idmq5Rxx8t0cO+zhwk81mWPnAZM="
         }
       ]
     },
@@ -81552,6 +79168,2390 @@
         {
           "Name": "integrity",
           "Value": "sha256-49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029869470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33478"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008702993"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114902"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008702993"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114902"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\gk80nqbqs3-pj5nd1wqec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032134709"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31118"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032134709"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31118"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4hq5wsygt1-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zrRIXAC8ugCIlsRMgBBjTa8xli0BiiAqT375rZab79Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010874175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91960"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010874175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91960"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\eib7l5pkd9-v0zj4ognzu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029969731"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33366"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029969731"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33366"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\afyalr166a-37tfw0ft22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008704887"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114877"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008704887"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114877"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\0fc61bwisk-hrwsygsryq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YedRlLwXS/p1OuS/d0RjDFf5lQsoglvovzJIcXC8mWM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032115101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31137"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010885302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91866"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010885302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91866"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\yia8ooi9aj-ft3s53vfgj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gJzy0olXjj0z70VKojvdJzPHOLLNp9HrIQJNzkwxWE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032115101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31137"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\4tzk7fodzr-pk9g2wxc8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5VQx+pcREAWRC7fSQ1OVsJtpTGF7SJ83RS8p2rovHHw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029869470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33478"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\rtpg97924i-s35ty4nyc5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 08:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
         }
       ]
     },

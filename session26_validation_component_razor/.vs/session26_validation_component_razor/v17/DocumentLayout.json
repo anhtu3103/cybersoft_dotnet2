@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\components\\productitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:components\\productitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12955701-9A07-4627-8D9A-3A40F5CCA9A9}|session26_validation_component_razor.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-05T16:19:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
@@ -50,38 +67,37 @@
               "RelativeToolTip": "Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T16:26:58.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T16:26:58.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductList.razor",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Pages\\ProductList.razor",
               "RelativeDocumentMoniker": "Pages\\ProductList.razor",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Pages\\ProductList.razor",
               "RelativeToolTip": "Pages\\ProductList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-27T16:20:02.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductItem.razor",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Components\\ProductItem.razor",
               "RelativeDocumentMoniker": "Components\\ProductItem.razor",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Components\\ProductItem.razor",
               "RelativeToolTip": "Components\\ProductItem.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-27T16:16:47.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductModel.cs",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ContactModel.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Models\\ContactModel.cs",
               "RelativeDocumentMoniker": "Models\\ContactModel.cs",
@@ -102,12 +118,11 @@
               "RelativeToolTip": "Models\\ContactModel.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA7wA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:11:57.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:11:57.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ContactForm.razor",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session26_validation_component_razor\\Pages\\ContactForm.razor",
               "RelativeDocumentMoniker": "Pages\\ContactForm.razor",
@@ -115,8 +130,7 @@
               "RelativeToolTip": "Pages\\ContactForm.razor",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAD8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T08:11:47.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:11:47.856Z"
             }
           ]
         }

@@ -1,4 +1,6 @@
 ﻿@page "/chat"
+@using Microsoft.AspNetCore.SignalR.Client;
+ @inject NavigationManager Navigation; // để chuyển hướng trang
 @rendermode InteractiveWebAssembly
 
 <PageTitle>Chat</PageTitle>
@@ -7,8 +9,16 @@
 @* <link rel="stylesheet" href="css/chat.css" /> *@
 
 <div class="chat-container">
-    <div class="chat-header">Chat</div>
-    <div class="chat-box">
+    <div class="chat-header">
+        @* button chat private *@
+        <button @onclick='() => activeTab = "private"' class="@(activeTab == "private" ? "active": "")">Private Chat</button>
+
+        @* button chat group *@
+        <button @onclick='() => activeTab = "group"' class="@(activeTab == "group" ? "active": "")">Group chat</button>
+    </div>
+
+
+    <div class="chat-box" style="display: @(activeTab == "private" ? "flex" : "none")">
         <ul class="messages-list">
             @foreach (var msg in messages)
             {
@@ -24,38 +34,166 @@
                 </li>
             }
         </ul>
+        <div class="chat-input">
+            <input @bind="userInput" placeholder="Your name" class="input-user" />
+            <input @bind="messageInput" placeholder="Aa" class="input-message" />
+            <button @onclick="Send" class="btn-send">➤</button>
+        </div>
     </div>
-    <div class="chat-input">
-        <input @bind="userInput" placeholder="Your name" class="input-user" />
-        <input @bind="messageInput" placeholder="Aa" class="input-message" />
-        <button @onclick="Send" class="btn-send">➤</button>
+
+    @* for group chat *@
+    <div class="chat-box" style="display: @(activeTab == "group" ? "flex" : "none")">
+        <ul>
+            @foreach (var room in chatRoom.Keys)
+            {
+                <li>
+                    <button class="group-button" @onclick='() => JoinGroup(room)'>@room </button>
+                </li>
+            }
+        </ul>
+        @* render message in room chat *@
+        <div class="chat-box" style="display: @(roomKey == "" ? "none" : "flex")">
+            <ul class="messages-list">
+                @if (roomKey != "")
+                {
+                    @foreach (var msg in chatRoom[roomKey])
+                    {
+                        var parts = msg.Split(":", 2);
+                        var sender = parts[0];
+                        var text = parts.Length > 1 ? parts[1] : "";
+                        var isSent = sender == userInput;
+                        <li class="message @(isSent ? "sent" : "received")">
+                            <div class="message-wrapper">
+                                <div class="message-sender">@sender</div>
+                                <div class="message-content">@text</div>
+                            </div>
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+        <div class="chat-input">
+            <input @bind="userInput" placeholder="Your name" class="input-user" />
+            <input @bind="messageInput" placeholder="Aa" class="input-message" />
+            <button @onclick="SendGroup" class="btn-send">➤</button>
+        </div>
+
+
     </div>
+
 </div>
 
 @code {
     private List<string> messages = new();
+    private string activeTab = "private";
+    private string roomKey = "";
+    private HubConnection? hubConnection; // biến connect đến server
     private string? userInput = "Alice"; // Giả lập user hiện tại
     private string? messageInput;
 
-    protected override void OnInitialized()
+    // create mock group chat
+    private Dictionary<string, List<string>> chatRoom = new() {
+        {"Dotnet 02", new() {"Alice: Hello", "Bob: hi"}},
+        {"Dotnet 03", new() {"Alice: How is going", "Bob: nothing special"}}
+    };
+
+    private async Task JoinGroup(string room)
     {
+        roomKey = room;
+        if (hubConnection.State == HubConnectionState.Connected)
+        {
+            await hubConnection.SendAsync("JoinGroup", room, userInput);
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        @* Tạo kết nối tới hub *@
+        hubConnection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("/chathub")).Build();
+
+        //Start connection
+        await hubConnection.StartAsync();
+
         // Mock messages
-        messages = new()
+        @* messages = new()
         {
             "Alice: Xin chào!",
             "Bob: Chào bạn, hôm nay thế nào?",
             "Alice: Mọi thứ vẫn ổn, cảm ơn!",
             "Bob: Tối nay rảnh không?",
             "Alice: Có chứ, gặp nhau nhé!"
-        };
+        }; *@
+
+        ReceiveMessage();
     }
 
-    private void Send()
+    //B1: Client send message lên server
+    private async Task Send()
     {
-        if (!string.IsNullOrWhiteSpace(userInput) && !string.IsNullOrWhiteSpace(messageInput))
+        try
         {
-            messages.Add($"{userInput}: {messageInput}");
-            messageInput = string.Empty;
+            if (hubConnection.State == HubConnectionState.Connected)
+            {
+                if (!string.IsNullOrWhiteSpace(userInput) && !string.IsNullOrWhiteSpace(messageInput))
+                {
+                    // send message to hub
+                    await hubConnection.SendAsync("SendPrivateMessage", userInput, messageInput);
+                    //reset message
+                    messageInput = string.Empty;
+
+                    //render UI
+                    StateHasChanged();
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
         }
     }
+    private async Task SendGroup()
+    {
+        try
+        {
+            if (hubConnection.State == HubConnectionState.Connected)
+            {
+                if (!string.IsNullOrWhiteSpace(userInput) && !string.IsNullOrWhiteSpace(messageInput))
+                {
+                    // send message to hub
+                    await hubConnection.SendAsync("SendGroupMessage", roomKey, userInput, messageInput);
+                    //reset message
+                    messageInput = string.Empty;
+
+                    //render UI
+                    StateHasChanged();
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+
+    private void ReceiveMessage()
+    {
+        //Client nhận event ReceiveMessage từ server
+        hubConnection.On<string, string>("ReceiveMessage", (sender, message) =>
+        {
+            messages.Add($"{sender}: {message}");
+            InvokeAsync(StateHasChanged);//render UI
+        });
+
+        hubConnection.On<string, string, string>("ReceiveMessageGroup", (room, sender, message) =>
+        {
+            if (roomKey.Contains(room))
+            {
+                chatRoom[room].Add($"{sender}: {message}");
+                InvokeAsync(StateHasChanged);
+            }
+        });
+    }
+
+
 }

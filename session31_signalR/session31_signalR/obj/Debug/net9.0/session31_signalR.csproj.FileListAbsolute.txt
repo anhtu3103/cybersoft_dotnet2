@@ -116,3 +116,4 @@ D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR\bin\D
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR\bin\Debug\net9.0\System.Threading.Channels.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session31_signalR\session31_signalR\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
