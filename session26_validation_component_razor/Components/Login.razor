@@ -1,0 +1,32 @@
+﻿@using session26_validation_component_razor.Services
+@* inject userService (Dependency injection)*@
+@inject UserService UserService
+
+@if(UserService.IsAuthenticate()) {
+    <p class="text-white">Hello @UserService.CurrentUser</p>
+    <button class="btn btn-danger" @onclick="Signout">Logout</button>
+} else 
+{
+    <div class="container">
+        <input placeholder="input username" @bind="userName"/>
+        <button class="btn btn-success" @onclick="Signin">Login</button>
+    </div>
+}
+
+
+
+
+@code {
+    private string userName = "";
+
+    private void Signin()
+    {
+        //send user to store
+        UserService.Login(userName);
+    }
+    private void Signout()
+    {
+        //send user to store
+        UserService.Logout();
+    }
+}

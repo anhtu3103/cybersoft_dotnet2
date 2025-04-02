@@ -5,14 +5,16 @@
 <div class="container">
     <div class="d-flex justify-content-between align-items-center my-4">
         <h2 class="text-center">Danh sách sản phẩm</h2>
-        <button class="btn btn-secondary position-relative" data-bs-toggle="modal" data-bs-target"="#cartModal">
+        <button class="btn btn-secondary position-relative" data-bs-toggle="modal" data-bs-target="#cartModal">
             <i class="fa fa-shopping-cart"></i>
             @*thẻ span hiện số lượng sản phẩm trên giỏ hàng *@
-            <span class="position-absolute bg-danger rounded-pill top-0 start-100 translate-middle badge" >10</span>
+            <span class="position-absolute bg-danger rounded-pill top-0 start-100 translate-middle badge">
+                @Cart.Count
+            </span>
         </button>
     </div>
 </div>
-
+@* Popup giỏ hàng *@
 <div class="modal fade" id="cartModal" tabindex="-1" aria-labelledby="cartModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -21,7 +23,26 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <p class="text-center text-muted">Giỏ hàng trống</p>
+                @* show number of product in cart to UI *@
+                @if (Cart.Any())
+                {
+                    <ul class="list-group">
+                        @foreach(var item in Cart)
+                        {
+                            <li class="d-flex justify-content-between align-items-center list-group-item">
+                                <div>
+                                    <strong>@item.Name</strong>
+                                    <span>@item.Quantity</span>
+                                </div>
+                                <span class="text-danger fw-bold">@(Convert.ToDouble(item.Price) * item.Quantity)</span>
+                            </li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <p class="text-center text-muted">Giỏ hàng trống</p>
+                }
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
@@ -37,7 +58,7 @@
         @foreach (var product in productModels)
         {
             <div class="col-md-4 mb-4">
-                <ProductItem product="product">
+                <ProductItem product="product" OnAddToCart="HandleAddToCart">
                     @* truyền html, css xuống cho component con [ProductItem] *@
                     <p class="text-secondary text-center">Sản phẩm chất lượng cao</p>
                 </ProductItem>
@@ -72,4 +93,28 @@
             Quantity = 10
         }
     };
+
+    // tạo object carts để chứa ds sản phẩm trên giỏ hàng
+    private List<ProductModel> Cart = new();
+
+    //Function handle add product to cart
+    // send function to component to receive data
+    private void HandleAddToCart(ProductModel product)
+    {
+        var existingProduct = Cart.FirstOrDefault(p => p.Name == product.Name);
+        if(existingProduct != null)
+        {
+            existingProduct.Quantity++;
+        }
+        else
+        {
+            Cart.Add(new ProductModel
+            {
+                Name = product.Name,
+                Price = product.Price,
+                ImageUrl = product.ImageUrl,
+                Quantity = 1
+            });
+        }
+    }
 }
