@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\services\\kafkaconsumerserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:services\\kafkaconsumerserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session48_microservice\\emailservice\\dtos\\welcomeemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3B386-F89E-4C16-B401-74190A1628FD}|EmailService.csproj|solutionrelative:dtos\\welcomeemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaConsumerSerivce.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\KafkaConsumerSerivce.cs",
+              "RelativeDocumentMoniker": "Services\\KafkaConsumerSerivce.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\KafkaConsumerSerivce.cs",
+              "RelativeToolTip": "Services\\KafkaConsumerSerivce.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:46:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:03:34.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T14:02:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:54:33.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:45:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailService.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:06:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomeEmailRequest.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\DTOs\\WelcomeEmailRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\WelcomeEmailRequest.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\Session48_Microservice\\EmailService\\DTOs\\WelcomeEmailRequest.cs",
+              "RelativeToolTip": "DTOs\\WelcomeEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:44:04.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -172,3 +172,7 @@ D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\MailKit.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\MimeKit.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\BCrypt.Net-Next.dll
 D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\StackExchange.Redis.dll
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\session40_50.staticwebassets.runtime.json
+D:\Cybersoft-dotnet2\cybersoft_dotnet2\session40_50\bin\Debug\net9.0\SixLabors.ImageSharp.dll

@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "yABXTM98ABCVv2R80kd0CMafF4NxjiCA2WbtfKJDJCU=",
+  "Hash": "atLSJ9BZe/Ic+5xXvzkbMRvhehtSJtiZjyuuWgRfTAA=",
   "Source": "session40_50",
   "BasePath": "_content/session40_50",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "session40_50\\wwwroot",
+      "Source": "session40_50",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\",
+      "BasePath": "_content/session40_50",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\uploads\\a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg",
+      "SourceId": "session40_50",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\",
+      "BasePath": "_content/session40_50",
+      "RelativePath": "uploads/a4fbf4bd-61c0-479d-843b-b64cd3b59282.#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "duphc2bfo2",
+      "Integrity": "FeEwJ3A0kzQKEZaufi+jplnSHA21bSIsj3T66MYdpr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/a4fbf4bd-61c0-479d-843b-b64cd3b59282..duphc2bfo2.jpg",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\uploads\\a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FeEwJ3A0kzQKEZaufi+jplnSHA21bSIsj3T66MYdpr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 17:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duphc2bfo2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FeEwJ3A0kzQKEZaufi+jplnSHA21bSIsj3T66MYdpr0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg",
+      "AssetFile": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\uploads\\a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FeEwJ3A0kzQKEZaufi+jplnSHA21bSIsj3T66MYdpr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 17:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FeEwJ3A0kzQKEZaufi+jplnSHA21bSIsj3T66MYdpr0="
+        }
+      ]
+    }
+  ]
 }

@@ -7,6 +7,11 @@ using session40_50.Services;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using StackExchange.Redis;
+using session40_50.Models.DTOs;
+using session40_50.Middlewares;
+using session40_50.Models;
+using Microsoft.AspNetCore.Http.Features;
 //using session40_50.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -58,6 +63,30 @@ builder.Services.AddAuthorization( options =>
     });
 });
 
+//configuration for redis
+builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
+{
+    var configuration = ConfigurationOptions.Parse("localhost:6379");
+    configuration.AbortOnConnectFail = false;
+    return ConnectionMultiplexer.Connect(configuration);
+});
+
+//add middleware rate limiting
+builder.Services.Configure<RateLimitSettings>(
+    builder.Configuration.GetSection("RateLimiting")
+);
+
+//config upload file
+builder.Services.Configure<FileUploadSettings>(
+    builder.Configuration.GetSection("FileUpload")
+);
+
+//config max size of file
+builder.Services.Configure<FormOptions>(options =>
+{
+    options.MultipartBodyLengthLimit = builder.Configuration.GetValue<long>("FileUpload:MaxFileSize");
+});
+
 //configuration JWT
 var jwtSettings = builder.Configuration.GetSection("Jwt");
 var key = Encoding.ASCII.GetBytes(jwtSettings["Key"]);
@@ -89,6 +118,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
+
+app.UseMiddleware<RateLimitMiddleware>();
 
 app.UseAuthentication();
 app.UseAuthorization();

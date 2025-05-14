@@ -129,6 +129,22 @@
     ]
   },
   {
+    "ContainingType": "session40_50.Controllers.UploadController",
+    "Method": "UploadImage",
+    "RelativePath": "api/Upload/image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "session40_50.Controllers.AuthController",
     "Method": "ForgotPassword",
     "RelativePath": "forgot-password",
@@ -220,7 +236,7 @@
   },
   {
     "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__5",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__7",
     "RelativePath": "weatherforecast",
     "HttpMethod": "GET",
     "IsController": false,

@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\models\\fileuploadsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:models\\fileuploadsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\models\\dtos\\ratelimitsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:models\\dtos\\ratelimitsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\models\\dtos\\resetpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:models\\dtos\\resetpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA28D983-347A-4A2E-ACBC-DA5CB76364C8}|session40_50.csproj|d:\\cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\migrations\\20250427025424_addcolumnresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +122,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "FileUploadSetting.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\FileUploadSetting.cs",
+              "RelativeDocumentMoniker": "Models\\FileUploadSetting.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\FileUploadSetting.cs",
+              "RelativeToolTip": "Models\\FileUploadSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:42:35.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAMwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:34:13.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RateLimitMiddleware.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\RateLimitMiddleware.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\RateLimitMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:51:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RateLimitSettings.cs",
+              "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\RateLimitSettings.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RateLimitSettings.cs",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\RateLimitSettings.cs",
+              "RelativeToolTip": "Models\\DTOs\\RateLimitSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:39:58.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ResetPassDTO.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\ResetPassDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\ResetPassDTO.cs",
@@ -114,12 +182,11 @@
               "RelativeToolTip": "Models\\DTOs\\ResetPassDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T03:32:32.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T03:32:32.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "20250427025424_AddColumnResetPassword.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Migrations\\20250427025424_AddColumnResetPassword.cs",
               "RelativeDocumentMoniker": "Migrations\\20250427025424_AddColumnResetPassword.cs",
@@ -127,12 +194,11 @@
               "RelativeToolTip": "Migrations\\20250427025424_AddColumnResetPassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:54:27.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T02:54:27.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ForgotPassDTO.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\ForgotPassDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\ForgotPassDTO.cs",
@@ -140,12 +206,11 @@
               "RelativeToolTip": "Models\\DTOs\\ForgotPassDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:37:49.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T02:37:49.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "20250423140742_AddColumnRoleForTableUser.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Migrations\\20250423140742_AddColumnRoleForTableUser.cs",
               "RelativeDocumentMoniker": "Migrations\\20250423140742_AddColumnRoleForTableUser.cs",
@@ -157,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "AuthorizeCheckOperationFilter.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Filters\\AuthorizeCheckOperationFilter.cs",
               "RelativeDocumentMoniker": "Filters\\AuthorizeCheckOperationFilter.cs",
@@ -169,20 +234,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAADwvz8AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T13:25:52.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\LoginDTO.cs",
@@ -194,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\ProductDTO.cs",
@@ -206,20 +271,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-13T02:18:20.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -231,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
@@ -243,20 +308,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Services\\AuthService.cs*",
-              "RelativeToolTip": "Services\\AuthService.cs*",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJ8AAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwJsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:29:00.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:29:00.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
@@ -264,25 +328,23 @@
               "RelativeToolTip": "Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:28:22.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:28:22.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AuthRepository.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Repositories\\AuthRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AuthRepository.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Repositories\\AuthRepository.cs",
               "RelativeToolTip": "Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T13:16:37.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T13:16:37.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
@@ -290,25 +352,24 @@
               "RelativeToolTip": "Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:27:50.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:27:50.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T13:05:49.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -316,12 +377,11 @@
               "RelativeToolTip": "Services\\ProductService.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAcwGYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:27:49.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T12:27:49.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IProductService.cs",
@@ -329,12 +389,11 @@
               "RelativeToolTip": "Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T13:09:07.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T13:09:07.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\UserDTO.cs",
@@ -342,25 +401,24 @@
               "RelativeToolTip": "Models\\DTOs\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:28:36.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:28:36.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T04:27:27.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -368,12 +426,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:15:52.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:15:52.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -381,8 +438,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T04:12:06.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T04:12:06.166Z"
             }
           ]
         }
