@@ -12,6 +12,7 @@ using session40_50.Models.DTOs;
 using session40_50.Middlewares;
 using session40_50.Models;
 using Microsoft.AspNetCore.Http.Features;
+using session40_50.Filters;
 //using session40_50.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -50,7 +51,7 @@ builder.Services.AddSwaggerGen( config =>
         Scheme = "Bearer"
     });
 
-    //config.OperationFilter<AuthorizeCheckOperationFilter>();
+    config.OperationFilter<AuthorizeCheckOperationFilter>();
 });
 
 //add authorization (phân quyền user)

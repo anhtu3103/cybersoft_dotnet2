@@ -68,22 +68,21 @@ namespace session40_50.Services
             //get key create token from appsetting.json
             var securityKey = _configuration["Jwt:Key"];
             var formatKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(securityKey));
-            var credentials = new SigningCredentials(formatKey, SecurityAlgorithms.HmacSha256);
+            var credential = new SigningCredentials(formatKey, SecurityAlgorithms.HmacSha256);
 
-            //create claims (save basic informations of users for Backend verify)
+            //create claim (lưu thông tin cơ bản của uer để BE verify)
             var claims = new[] {
                 new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-                new Claim(JwtRegisteredClaimNames.Email, user.Email),
-                new Claim(ClaimTypes.Role, user.Role) // truyền infor of role vào claim
+                new Claim(JwtRegisteredClaimNames.Email, user.Email)
             };
 
             //create token
-            var token = new JwtSecurityToken( // all field in JwtSecurityToken below here is require
+            var token = new JwtSecurityToken(
                 issuer: _configuration["Jwt:Issuer"],
-                audience: _configuration["Jwt:audience"],
+                audience: _configuration["Jwt:Audience"],
                 claims: claims,
                 expires: DateTime.Now.AddHours(1),
-                signingCredentials: credentials
+                signingCredentials: credential
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);

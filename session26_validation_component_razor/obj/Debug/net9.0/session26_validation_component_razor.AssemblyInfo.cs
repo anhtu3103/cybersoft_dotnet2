@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("session26_validation_component_razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab63499f418426c38f5b39177dbbcdd488a25be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0f2362f1fbf5648234640980ad7543f9c9c531")]
 [assembly: System.Reflection.AssemblyProductAttribute("session26_validation_component_razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("session26_validation_component_razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

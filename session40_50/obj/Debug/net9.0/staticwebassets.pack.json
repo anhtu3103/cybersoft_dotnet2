@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\uploads\\a4fbf4bd-61c0-479d-843b-b64cd3b59282..jpg"
     },
     {
+      "Id": "D:\\Cybersoft-dotnet2\\cybersoft_dotnet2\\session40_50\\wwwroot\\uploads\\c03f8433-7b46-49d6-8d57-adaf9109151c..jpg",
+      "PackagePath": "staticwebassets\\uploads\\c03f8433-7b46-49d6-8d57-adaf9109151c..jpg"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.session40_50.props",
       "PackagePath": "build\\session40_50.props"
     },

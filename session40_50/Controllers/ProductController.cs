@@ -42,8 +42,8 @@ namespace session40_50.Controllers
             return Ok(product);
         }
 
-        [Authorize]
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<ProductResponseDTO>> CreateProduct(ProductRequestDTO productDTO)
         {
             //checkk model invalid
@@ -58,11 +58,11 @@ namespace session40_50.Controllers
 
             //check role
             //user này là property của principalClaim
-            var userRole = User.FindFirst(ClaimTypes.Role)?.Value;
-            if (userRole != "Admin") 
-            {
-                return Unauthorized(new { message = "Only admin user can create products"});
-            }
+            //var userRole = User.FindFirst(ClaimTypes.Role)?.Value;
+            //if (userRole != "Admin") 
+            //{
+            //    return Unauthorized(new { message = "Only admin user can create products"});
+            //}
 
             var createdProduct = await _productSevice.CreateProductAsync(productDTO);
             return Ok(createdProduct);
