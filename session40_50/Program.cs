@@ -13,6 +13,7 @@ using session40_50.Middlewares;
 using session40_50.Models;
 using Microsoft.AspNetCore.Http.Features;
 using session40_50.Filters;
+using System.Security.Claims;
 //using session40_50.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -60,7 +61,7 @@ builder.Services.AddAuthorization( options =>
     options.AddPolicy("AdminOnly", policy =>
     {
         policy.RequireAuthenticatedUser();
-        policy.RequireClaim("Role", "Admin");
+        policy.RequireClaim(ClaimTypes.Role, "Admin");
     });
 });
 

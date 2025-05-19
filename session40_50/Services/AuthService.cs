@@ -73,7 +73,8 @@ namespace session40_50.Services
             //create claim (lưu thông tin cơ bản của uer để BE verify)
             var claims = new[] {
                 new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-                new Claim(JwtRegisteredClaimNames.Email, user.Email)
+                new Claim(JwtRegisteredClaimNames.Email, user.Email),
+                new Claim(ClaimTypes.Role, user.Role) //infor về role vào claim
             };
 
             //create token
